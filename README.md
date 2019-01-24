@@ -1,5 +1,5 @@
 # Aero-App
-Prototype of a flight app built using Adobe XD
+An app built for an airline company
 
 ---
 UI of the app is built using basic material guidelines.
